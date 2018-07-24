@@ -1,0 +1,26 @@
+{
+  "name": "tixproto",
+  "version": "1.0.0",
+  "description": "TixSwap ProtoType",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  	"dev":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwbnw/update-later.git"
+  },
+  "author": "James Belford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwbnw/update-later/issues"
+  },
+  "homepage": "https://github.com/jwbnw/update-later#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
