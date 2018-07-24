@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwbnw/update-later.git"
+    "url": "git+https://github.com/jwbnw/TixProto.git"
   },
   "author": "James Belford",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jwbnw/update-later/issues"
+    "url": "https://github.com/jwbnw/TixProto/issues"
   },
-  "homepage": "https://github.com/jwbnw/update-later#readme",
+  "homepage": "https://github.com/jwbnw/TixProto#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
   }
